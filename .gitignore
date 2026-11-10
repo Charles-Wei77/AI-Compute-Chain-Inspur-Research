@@ -1,0 +1,33 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.claude/
+.claudian/
+.obsidian/
+.vscode/
+.idea/
+
+# Office temp / lock files
+~$*
+.~lock.*#
+*.tmp
+
+# Drafts and backups
+*旧版*
+*备份*
+*草稿*
+*副本*
+*_old*
+temp/
+
+# Python / Node
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+*.log
+
+# Secrets
+.env
+.env.*
